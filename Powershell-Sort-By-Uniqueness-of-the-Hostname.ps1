@@ -1,5 +1,6 @@
 ﻿# Pergunta no forum stackoverflow
 # https://stackoverflow.com/questions/75925763/powershell-sort-by-uniqueness-of-the-hostname
+# Respondido por vonPryz
 [CmdletBinding()]
 param()
 
